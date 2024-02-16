@@ -5,7 +5,7 @@ The Collaborative Whiteboard is a web application that allows users to draw and 
 
 
 
-## Features
+## 🚀 Features
 
 - ⏳ **Real-time Collaboration** - Work together on a shared canvas in real time and see updates instantly.
 - 🎨 **Drawing Tools** - Drawing tools such as pen with color palette, straight line and rectangle.
@@ -15,7 +15,7 @@ The Collaborative Whiteboard is a web application that allows users to draw and 
 
 
 
-## Tech Stack
+## 💻 Tech Stack
 - **Frontend** - React.js, Rough.js,  Bootstrap
 - **Backend** - Express.js, socket.io
 
